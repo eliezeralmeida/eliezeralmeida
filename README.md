@@ -3,11 +3,11 @@
 Um pouco sobre mim:
 
 - 🔭 Sócio na AGIL4 TECNOLOGIA que possui como pricipal produto o [Sistema Fusion](https://sistemafusion.com.br)
-- :muscle: Sou apaixonado por .NET, Microsoft, AWS, Código Limpo e Arquitetura de Softwares
+- 😄 Sou apaixonado por .NET, Microsoft, AWS, Código Limpo e Arquitetura de Softwares
 - 🌱 Atualmente estou estudando React, Arquitetura, DDD e CQRS
 - 💬 Pergunte-me Sobre: Desenvolvimento e Limpeza do Código :)
 
-#### Me siga nas redes sóciais para trocarmos experiências
+#### Me siga nas redes sociais para trocarmos experiências
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eliezeralmeida/)](https://github.com/eliezeralmeida/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezeralmeidago/)](https://www.linkedin.com/in/eliezeralmeidago/)
